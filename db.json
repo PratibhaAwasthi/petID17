@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": "petItem17",
+      "name": "Rabbit Hutch",
+      "company": "PetPro",
+      "price": 239.99,
+      "colors": ["#E6E6E6", "#BFBFBF"],
+      "description": "A large rabbit hutch with a nesting area and a play area. The hutch is made with high-quality material and is perfect for keeping your pet rabbit comfortable and happy.",
+      "category": "Rabbit",
+      "shipping": true,
+      "stock": 19,
+      "reviews": 21,
+      "stars": 2.8,
+      "image": [
+        {
+          "id": "randomid1",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/76/2b/d7/762bd76f30d27ea5156f691be058f2b8.jpg",
+          "filename": "prod-1.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid2",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/76/2b/d7/762bd76f30d27ea5156f691be058f2b8.jpg",
+          "filename": "prod-2.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid3",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/76/2b/d7/762bd76f30d27ea5156f691be058f2b8.jpg",
+          "filename": "prod-3.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid4",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/76/2b/d7/762bd76f30d27ea5156f691be058f2b8.jpg",
+          "filename": "prod-4.png",
+          "size": 1080,
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
